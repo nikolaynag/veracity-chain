@@ -35,6 +35,8 @@ In the _veracity chain_ we want to reward the following behavior:
 
 The important idea here is the asymmetry of trust: you need to do a lot of true _Statements_ to build trust and just one deceptive _Statements_ completely ruins it. Another important idea is that not all true _Statements_ have the same effect on the trust: the most valuable are contradictory _Statements_ which bring new information to the system.
 
+One more key idea is that there should be an economical bridge to the real world. The _veracity chain_ system should operate some kind of cryptocurrency with some real-world economic value. It should be possible to invest some real-world money into boosting your trust level, because it provides a stake and makes this trust level valuable. Also having high trust level could mean to be paid more by other actors to verify the statements. This is very similar to the proof-of-stake system in the modern cryptocurrencies.
+
 ## Areas of application
 
 There are a ton of possible applications for _veracity chain_ system:
