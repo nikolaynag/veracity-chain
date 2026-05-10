@@ -20,7 +20,7 @@ Most of the _Statements_ in the system will provide information about other _Sta
 
 The main issue is how to check if _Statement_ is true or false? The system itself doesn't know anything about the real world and can't magically find the truth. The main idea is that the system can aggregate a lot of information and automate the mechanism of trust we used since the beginning of time, but on the much bigger scale.
 
-One of the ways to solve this problem is to build a chain of trust. Suppose _Actor_ A makes a _Statement X_ about the real world. _Actor_ B verifies this statement and issues it's own _Statement Y_ which declares some veracity level of the _Statement X_. There should be a mechanism to incetintify such verifications. When a lot of people will make such verification, you can build a veracity chain (a chain of trust) from an original _Statement X_ to some _Actors_ who you trust because you know them from outside of the system (like your friends for example or even known experts in the field). And the system can give you some calculated veracity level of the original _Statement X_.
+One of the ways to solve this problem is to build a chain of trust. Suppose _Actor_ A makes a _Statement X_ about the real world. _Actor_ B verifies this statement and issues it's own _Statement Y_ which declares some veracity level of the _Statement X_. There should be a mechanism to reward such verifications. When a lot of people will make such verification, you can build a veracity chain (a chain of trust) from an original _Statement X_ to some _Actors_ who you trust because you know them from outside of the system (like your friends for example or even known experts in the field). And the system can give you some calculated veracity level of the original _Statement X_.
 
 So the idea is to build a system which stores some pieces of information and provides a way to automatically build many veracity chains from some distant source to the known persons or organizations which you trust (because you know them in the real life). And what is very important, automatically take into account any deceptive statements of some _Actor_ to automatically adjust veracity level and obtain new estimates of the veracity for all information previously published or verified by this _Actor_.
 
@@ -28,7 +28,7 @@ So the idea is to build a system which stores some pieces of information and pro
 
 Trust and reliable information are key components for many businesses. We trust banks to count our money. Banks trust clients to give them credits. Stakeholders trust companies and buy their shares. Companies trust governments and buy their obligations. So in the modern world **trust equals money** in many cases.
 
-In the _veracity chain_ we want to incetintify the following behavior:
+In the _veracity chain_ we want to reward the following behavior:
 - make _Statements_, especially estimating veracity level of other _Statements_
 - build level of trust for your _Actor_ and prise it
 - avoid deceptive information as much as possible, because it leads to massive loss of the level of trust
