@@ -2,9 +2,7 @@
 
 > This document describes the Veracity Chain concept, first published by [Nikolay Nagorskiy](https://github.com/nikolaynag) in February 2026. The project is in early-stage development. It presents the original formulation of the idea and is intended to evolve through discussion, experimentation, and further refinement.
 >
-> Last updated: 23 August 2026
->
-> Source: https://github.com/nikolaynag/veracity-chain
+> Last updated: 23 August 2026 ([source on GitHub](https://github.com/nikolaynag/veracity-chain))
 
 ## Introduction
 
