@@ -1,5 +1,13 @@
 # Veracity chain
 
+> This document describes the Veracity Chain concept, first published by [Nikolay Nagorskiy](https://github.com/nikolaynag) in February 2026. The project is in early-stage development. It presents the original formulation of the idea and is intended to evolve through discussion, experimentation, and further refinement.
+>
+> Last updated: 23 August 2026
+>
+> Source: https://github.com/nikolaynag/veracity-chain
+
+## Introduction
+
 The amount of publicly available information grows every year. Fact-checking is not free and sometimes it can take considerable effort just to find the original source of a claim, let alone establish its credibility. At the same time it is very cheap to spread misleading, manipulative or outright false information.
 
 Historically, we have relied on personal trust and public reputation to assess the credibility of claims. But this model does not scale to today’s information environment. There are simply too many sources, individuals, and institutions for us to know them personally or keep track of their reputation and history of their claims.
